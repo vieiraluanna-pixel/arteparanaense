@@ -1,1 +1,16 @@
-
+body{
+    background-color: #0E5C1C;
+    color: #FFFFFF;
+}
+header{
+    background-color: #86B35E;
+    color:black
+}
+main{
+ background-color: #86B35E;
+    color:black   
+}
+main{
+    background-color:aquamarine;
+    color:black
+}
