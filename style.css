@@ -1,16 +1,51 @@
 body{
-    background-color: #0E5C1C;
-    color: #FFFFFF;
+    background-color:#f4f1ea
+    color: #222222
+    font-family: Arial, sans-serif;
 }
 header{
-    background-color: #86B35E;
-    color:black;
+    background-color: #6b2d5c
+    color:white;
+    text-align: center;
+    padding: 30xp;
 }
-main{
- background-color: #86B35E;
-    color:black;
+
+h1 {
+    font-size: 36px;
 }
+h2 {
+    color: #6b2d5c;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+
 main{
-    background-color:aquamarine;
-    color:black;
+ width: 80%;
+ margin: auto;
+}
+
+section {
+    backkgroud-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: #555555;
+    margin-top: 8px;
 }
